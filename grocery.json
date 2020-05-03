@@ -1,0 +1,14 @@
+[
+    [1, "Rice", 10, "kilogram " ,  " Grocery", " "],
+    [1, "Sugar", 6, "Kilogram " , " Grocery", " "],
+    [1, "Sanitizer", 1, "number " , " Skincare", " "],
+    [1, "Ginger", 1, "kilogram " , " Spices", " "],
+    [1, "Salt", 2, "kilogram " , " Grocery", " "],
+    [1, "Cake", 1, "Number " , " Baking", " "],
+    [1, "Mango", 1, "kilogram " , " Fresh produce", " "],
+    [1, "Blueberry", 1, "kilogram " , " Fresh produce", " "],
+    [1, "Chocolate", 1, "kilogram " , " Bakery", " "],
+    [1, "Cheese", 10, "numbers ",  " Milkproducts", " "]
+    
+
+]
